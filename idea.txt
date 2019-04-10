@@ -1,0 +1,1 @@
+python main.py gan kdd run --nb_epochs=500 --label=0 --w=0.1 --m='cross-e' --d=1
